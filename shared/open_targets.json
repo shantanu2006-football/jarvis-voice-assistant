@@ -1,0 +1,13 @@
+{
+  "music": "https://music.apple.com",
+  "apple music": "https://music.apple.com",
+  "spotify": "https://open.spotify.com",
+  "youtube": "https://youtube.com",
+  "gmail": "https://mail.google.com",
+  "jira": "https://REPLACE-WITH-YOUR-DOMAIN.atlassian.net",
+  "vs code": "vscode",
+  "vscode": "vscode",
+  "chrome": "chrome",
+  "outlook": "outlook",
+  "teams": "msteams:"
+}
